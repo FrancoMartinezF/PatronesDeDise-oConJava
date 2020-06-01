@@ -1,0 +1,13 @@
+Proyecto integral que fuimos realizando clase a clase durante toda la cursada.
+La idea central del proyecto era la realización de un sistema ferroviario, el cual
+arrancaba muy básico y se iba dificultando a medida que se agregaban más patrones
+de diseños que se iban sumando al proyecto. 
+Al momento de cerrar el proyecto, he implementado los patrones Abstract factory,
+Factory method, Builder, Prototype, Singleton,Adapter, Composite, Decorator, Facade
+Proxy,Iterator y Observer. Además, también vimos como parte del programa de la materia
+los patrones Template method, State, Strategy, Mediator, Command, Chain of Responsability
+Memento, Interpreter y Visitor. 
+
+En cada clase veíamos 2 o 3 patrones, cómo funcionan, su implementación y ejercicios
+para adaptarlos a nuestro proyecto.
+
